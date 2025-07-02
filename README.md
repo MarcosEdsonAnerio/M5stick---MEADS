@@ -4,7 +4,7 @@ Firmware customizado para o dispositivo **M5Stick-C**, focado em demonstrações
 
 Este projeto foi desenvolvido como uma ferramenta de aprendizado para explorar as capacidades da plataforma ESP32 no campo da segurança de redes sem fio, de forma controlada e educativa.
 
-## ✨ Funcionalidades
+##  💪  Funcionalidades
 
 O firmware M5Stick-MEADS possui uma interface de menu e dois modos de ataque distintos:
 
