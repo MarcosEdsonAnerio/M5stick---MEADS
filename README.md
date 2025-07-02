@@ -1,7 +1,5 @@
 # M5Stick-MEADS
 
-![M5Stick-C](https://static.m5stack.com/uploads/2019/11/stickc_01.png)
-
 Firmware customizado para o dispositivo **M5Stick-C**, focado em demonstrações de segurança Wi-Fi e estudos de redes. O nome MEADS é um acrónimo para **M**arcos **E**dson **A**nerio **d**os **S**antos.
 
 Este projeto foi desenvolvido como uma ferramenta de aprendizado para explorar as capacidades da plataforma ESP32 no campo da segurança de redes sem fio, de forma controlada e educativa.
